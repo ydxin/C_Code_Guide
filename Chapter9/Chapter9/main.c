@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include "Chapter9.h"
+#include <stdio.h>
 
 int main()
 {
-	Student stu[5];
-	stu[3].a = 1;
-	printf("%d", (stu+3)->a);
- }  
+	Fruits a= APPLE;
+	printf("%d",a);
+	return 0;
+}

@@ -1,10 +1,19 @@
-#pragma once
 #ifndef _CHAPTER9_H_
 #define _CHAPTER9_H_
-typedef struct Student
+
+typedef union UserUnion
 {
 	int a;
-}Student;
+	char c;
+	double b;
+}UserUnion;
 
-#endif // !_CHAPTER9_H_
+typedef enum Fruits
+{
+	WATER,
+	MANGO,
+	APPLE
+}Fruits;
+void PrintUnionSize();
 
+#endif
