@@ -1,0 +1,7 @@
+﻿  Chapter2.c
+F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter2\Chapter2\Chapter2.c(11,16): warning C4244:  “=”: 从“float”转换到“int”，可能丢失数据
+  main.c
+F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter2\Chapter2\Chapter2.c(13,16): warning C4244:  “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter2\Chapter2\main.c(9,8): warning C4101:  “temp”: 未引用的局部变量
+  Chapter2.vcxproj -> F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter2\Debug\Chapter2.exe

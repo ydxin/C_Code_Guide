@@ -1,0 +1,6 @@
+﻿  Chapter6.c
+F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter6\Chapter6\Chapter6.c(10,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter6\Chapter6\Chapter6.c(148,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+  Chapter6.vcxproj -> F:\GithubSpace\Interview_exercise.git\trunk\C语言编程指南\Chapter6\Debug\Chapter6.exe
