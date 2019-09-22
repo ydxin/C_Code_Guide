@@ -1,0 +1,11 @@
+﻿  chapter19.c
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(21,11): warning C4098:  “ConnectSQL”:“void”函数返回值
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(29,11): warning C4098:  “ConnectSQL”:“void”函数返回值
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(40,11): warning C4098:  “ConnectSQL”:“void”函数返回值
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(47,11): warning C4098:  “ConnectSQL”:“void”函数返回值
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(11,1): warning C4267:  “初始化”: 从“size_t”转换到“SQLSMALLINT”，可能丢失数据
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(12,1): warning C4267:  “初始化”: 从“size_t”转换到“SQLSMALLINT”，可能丢失数据
+  main.c
+  正在生成代码...
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Chapter19\chapter19.c(13,1): warning C4267:  “初始化”: 从“size_t”转换到“SQLSMALLINT”，可能丢失数据
+  Chapter19.vcxproj -> F:\GithubSpace\C_Code_Guide.git\trunk\Chapter19\Debug\Chapter19.exe

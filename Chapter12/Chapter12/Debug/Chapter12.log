@@ -1,0 +1,4 @@
+﻿  main.c
+F:\GithubSpace\C_Code_Guide.git\trunk\Chapter12\Chapter12\main.c(21,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+  Chapter12.vcxproj -> F:\GithubSpace\C_Code_Guide.git\trunk\Chapter12\Debug\Chapter12.exe
